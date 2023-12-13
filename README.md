@@ -2,8 +2,8 @@
 - 微信公众号：
 - B站账号：
 - CSDN：
-### 数据统计[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=T1sweet)](https://github.com/pythonsir/github-readme-stats)
-
+### 数据统计
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=T1sweet)](https://github.com/pythonsir/github-readme-stats)
 <!--
 **T1sweet/T1sweet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
